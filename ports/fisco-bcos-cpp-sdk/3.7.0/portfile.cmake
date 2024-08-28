@@ -1,7 +1,7 @@
 vcpkg_from_git(
         OUT_SOURCE_PATH SOURCE_PATH
         URL ssh://git@code.iflytek.com:30004/TC_FLYBC/FISCO-BCOS.git
-        REF a05d1eeebbcedcd1865397924eca3a3d474304a8
+        REF b119cce0ea0714840e9e538f67ad4f32aa48a67b
         HEAD_REF: iflychain-3.6.0-3.7.3-rebase
 )
 
